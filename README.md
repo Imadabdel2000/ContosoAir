@@ -1,6 +1,8 @@
+
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
-
+[![Build Status](https://dev.azure.com/ABDELOUAHADIMADEDDINE/Controle/_apis/build/status/Imadabdel2000.ContosoAir%20(3)?branchName=master)](https://dev.azure.com/ABDELOUAHADIMADEDDINE/Controle/_build/latest?definitionId=4&branchName=master)
 # Microsoft.Github CI Demo
 
 Demo website application for Contoso Air.  
